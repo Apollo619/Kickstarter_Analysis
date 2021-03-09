@@ -29,12 +29,14 @@ This should be considered an outlier as the number of campaigns with goal amount
 	The earlier at the beginning of the calendar year a theater campaign is launched the more likely they are to successful. 
 	See “Theater Outcomes vs Launch Date” graph for visual aid.
 	
-	![](https://github.com/Apollo619/Kickstarter_Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+	![](https://github.com/Apollo619/Kickstarter_Analysis/blob/main/Resources/Theater%20Outcomes%20vs%20Launch%20Date.png)
 
 - What can you conclude about the Outcomes based on Goals?
 	Analysis revealed that Kickstarter campaigns with goals for less than 5,000 yielded a high percent of success than those of high amounts. 
 	See “Outcomes vs Goals” graph for visual aid. 
-	![](https://github.com/Apollo619/Kickstarter_Analysis/blob/main/Resources/Theater%20Outcomes%20vs%20Launch%20Date.png)
+	
+	![](https://github.com/Apollo619/Kickstarter_Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
 		
 - What are some limitations of this dataset?
 	We needed to create a column to indicate the duration from Launch date to the date the Goal was meet. 
